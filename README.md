@@ -10,4 +10,4 @@ petugas/petugas | petugas
 dokter/dokter | dokter
 kasir/kasir | kasir
 
-demo (progress): https://andyptutra.com/klinik
+demo (progress): https://andyputra.com/klinik
